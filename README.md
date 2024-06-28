@@ -1,1 +1,2 @@
 # sales-analysis-project
+I worked on a sales analysis data science project where I analyzed sales data to uncover trends, patterns, and insights that could help optimize business strategies. By applying data science techniques such as data cleaning, visualization, and predictive modeling, I was able to identify key factors influencing sales performance and make data-driven recommendations. This project enhanced my data analysis skills and provided valuable insights for improving sales outcomes.
